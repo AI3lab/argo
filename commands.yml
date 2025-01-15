@@ -1,0 +1,6 @@
+commands:
+  mycmd:
+    handler: custom_commands.MyCustomCommand
+    description: "My custom command description"
+    params:
+      description: "My custom command description"
